@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="gcp-alpa", # Replace with your own username
-    version="0.0.8",
+    version="0.0.9",
     author="Albert Pang",
     author_email="alpaaccount@mac.com",
     description="GCP API Wrapper",
